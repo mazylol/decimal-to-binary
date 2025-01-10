@@ -1,4 +1,5 @@
 # Decimal To Binary (`d2b`)
+*companion to [binary-to-decimal](https://github.com/mazylol/binary-to-decimal)*
 
 It is very simple, input a decimal as the first argument, get binary
 
